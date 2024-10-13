@@ -1,3 +1,5 @@
 <template>
-    <h2>блог</h2>
-</template>
+    <h2>Блог</h2>
+
+  </template>
+  
